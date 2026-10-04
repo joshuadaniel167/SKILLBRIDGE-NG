@@ -1,0 +1,10 @@
+{
+  "name": "SKILLBRIDGE NG",
+  "description": "Comprehensive Job Applicant & Transparency Platform connecting Nigerian & global talent with top companies, verified employee coffee chats, and full-cycle ATS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
